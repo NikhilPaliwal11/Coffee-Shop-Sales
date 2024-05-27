@@ -49,3 +49,5 @@ Used SQL queries to ensure data accuracy and consistency, validating results sho
 
 [Coffee Shop Sales Project.pdf](https://github.com/NikhilPaliwal11/Coffee-Shop-Sales/files/15459334/Coffee.Shop.Sales.Project.pdf)
 ](url)
+![Image Dashboard 1 ](https://github.com/NikhilPaliwal11/Coffee-Shop-Sales/assets/61961464/d05f8edf-9a13-476c-8a66-9e005db125ef)
+![image Dashboard 2](https://github.com/NikhilPaliwal11/Coffee-Shop-Sales/assets/61961464/92209838-2bad-4da4-ba9e-5c347b7f3e7c)
