@@ -46,3 +46,6 @@ Used SQL queries to ensure data accuracy and consistency, validating results sho
 ☕ Best Sellers: Coffee is sold the maximum number of times, followed by tea. Barista Espresso was the top choice in May.
 
 🏙️ Top Store Location: Hell's Kitchen location has the highest sales among all three locations.
+
+[Coffee Shop Sales Project.pdf](https://github.com/NikhilPaliwal11/Coffee-Shop-Sales/files/15459334/Coffee.Shop.Sales.Project.pdf)
+](url)
